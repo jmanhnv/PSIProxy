@@ -1,0 +1,11 @@
+com\vsii\proxy\App.class
+com\vsii\proxy\Dummy.class
+com\vsii\proxy\BitItem.class
+com\vsii\proxy\Dummy$EBYTE.class
+com\vsii\proxy\Dummy$EBIT.class
+com\vsii\proxy\Hex2Decimal.class
+com\vsii\proxy\Const.class
+com\vsii\proxy\ByteItem.class
+com\vsii\proxy\Status.class
+com\vsii\proxy\BitMapped.class
+com\vsii\proxy\Result.class
